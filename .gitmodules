@@ -1,0 +1,3 @@
+[submodule "my_chef"]
+	path = my_chef
+	url = git@github.com:S-Miyakoshi/my_chef.git
